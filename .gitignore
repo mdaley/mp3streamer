@@ -11,3 +11,17 @@
 *.lai
 *.la
 *.a
+
+# Build directories
+Release/
+Debug/
+ipch/
+
+# Offending files
+*.sdf
+*.user
+*.suo
+*.ncb
+*.log
+*.bak
+*.opensdf
